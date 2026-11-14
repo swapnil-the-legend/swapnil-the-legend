@@ -15,7 +15,4 @@
 ![](https://streak-stats.demolab.com/?user=swapnil-the-legend&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
----
-[![](https://komarev.com/ghpvc/?username=swapnil-the-legend&icon=0&color=4)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
