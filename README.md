@@ -6,7 +6,7 @@
 <a href="https://codeforces.com/profile/swapnil_sylhety">CodeForces = swapnil_sylhety<br></a>
 <a href="https://www.codechef.com/users/swapnilsylhety">CodeChef = swapnilsylhety<br></a>
 <a href="https://www.hackerrank.com/Swapnil_Sylhety">HackerRank = Swapnil_Sylhety<br></a>
-<a href="https://vjudge.net/user/Swapnil_Sylhety">VirtualJudge = Swapnil_Sylhety<br></a>
+<a href="https://vjudge.net/user/Swapnil_Sylhety">VirtualJudge = Swapnil_Sylhety</a>
 </p>
 
 # 💻 Tech Stack:
