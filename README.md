@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
-<h3 align="center">Gamer | Founder of SWAPNILCRAFT | Programmer</h3>
+<h3 align="center">Gamer | Competitive Programmer | Problem Solver</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
