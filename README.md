@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.codechef.com/users/swapnilsylhety" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="swapnilsylhety" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/Swapnil_Sylhety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="swapnil_sylhety" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/swapnil_sylhety" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="swapnil_sylhety" height="30" width="40" /></a>
-<a href="https://vjudge.net/user/Swapnil_Sylhety" target="blank"><img align="center" height="30" width="30" alt="image" src="https://github.com/user-attachments/assets/b6ecf0bc-a38f-446a-aac2-e8f2d136ed2d" /></a>
+<a href="https://codeforces.com/profile/swapnil_sylhety">CodeForces = swapnil_sylhety<br></a>
+<a href="https://www.codechef.com/users/swapnilsylhety">CodeChef = swapnilsylhety<br></a>
+<a href="https://www.hackerrank.com/Swapnil_Sylhety">HackerRank = Swapnil_Sylhety<br></a>
+<a href="https://vjudge.net/user/Swapnil_Sylhety">VirtualJudge = Swapnil_Sylhety<br></a>
 </p>
 
 # 💻 Tech Stack:
