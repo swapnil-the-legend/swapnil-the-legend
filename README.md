@@ -3,10 +3,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://codeforces.com/profile/swapnil_sylhety">CodeForces = swapnil_sylhety<br></a>
-<a href="https://www.codechef.com/users/swapnilsylhety">CodeChef = swapnilsylhety<br></a>
-<a href="https://www.hackerrank.com/Swapnil_Sylhety">HackerRank = Swapnil_Sylhety<br></a>
-<a href="https://vjudge.net/user/Swapnil_Sylhety">VirtualJudge = Swapnil_Sylhety</a>
+CodeForces: <a href="https://codeforces.com/profile/swapnil_sylhety">swapnil_sylhety<br></a>
+CodeChef: <a href="https://www.codechef.com/users/swapnilsylhety">swapnilsylhety<br></a>
+HackerRank: <a href="https://www.hackerrank.com/Swapnil_Sylhety">Swapnil_Sylhety<br></a>
+VirtualJudge: <a href="https://vjudge.net/user/Swapnil_Sylhety">Swapnil_Sylhety</a>
 </p>
 
 # 💻 Used Programming Tools:
