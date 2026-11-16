@@ -2,19 +2,30 @@
 <h3 align="center">Professional Gamer | Competitive Programmer | Problem Solver</h3>
 
 <p align="center">
-<img alt="ViewCount" src="https://views.whatilearened.today/views/github/swapnil-the-legend/swapnil-the-legend.svg" />
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/swapnil-the-legend/swapnil-the-legend.svg">
 </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-Codeforces: <a href="https://codeforces.com/profile/swapnil_sylhety">swapnil_sylhety<br></a>
-CodeChef: <a href="https://www.codechef.com/users/swapnilsylhety">swapnilsylhety<br></a>
-HackerRank: <a href="https://www.hackerrank.com/Swapnil_Sylhety">Swapnil_Sylhety<br></a>
-Virtual Judge: <a href="https://vjudge.net/user/Swapnil_Sylhety">Swapnil_Sylhety</a>
+# 🤝 Connect with me:
+<p> 
+<a href="https://codeforces.com/profile/swapnil_sylhety"><img src="https://img.shields.io/badge/Codeforces-swapnil_sylhety-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<br>
+<a href="https://codechef.com/users/swapnilsylhety"><img src="https://img.shields.io/badge/CodeChef-swapnil_sylhety-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<br>
+<a href="https://hackerrank.com/profile/Swapnil_Sylhety"><img src="https://img.shields.io/badge/HackerRank-swapnil_sylhety-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+<br>
+<a href="https://vjudge.net/user/Swapnil_Sylhety"><img src="https://img.shields.io/badge/VJudge-swapnil_sylhety-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VJudge"/></a>
 </p>
 
 # 💻 Used Programming Tools:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+<br>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+<br>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+<br>
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 My Stats:
 ![](https://github-readme-stats.shion.dev/api?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
