@@ -2,7 +2,7 @@
 <h3 align="center">Professional Gamer | Competitive Programmer | Problem Solver</h3>
 
 <p align="center">
-<img alt="ViewCount" src="https://views.whatilearened.today/views/github/safoun10/safoun10.svg" />
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/swapnil-the-legend/swapnil-the-legend.svg" />
 </p>
 
 <h3 align="left">Connect with me:</h3>
