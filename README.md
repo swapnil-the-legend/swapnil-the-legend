@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Swapnil</h1>
 <h3 align="center">Professional Gamer | Competitive Programmer | Problem Solver</h3>
 
+<p align="center">
+<img alt="ViewCount" src="https://views.whatilearened.today/views/github/safoun10/safoun10.svg" />
+</p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 Codeforces: <a href="https://codeforces.com/profile/swapnil_sylhety">swapnil_sylhety<br></a>
