@@ -34,3 +34,6 @@
 ![](https://github-readme-stats.shion.dev/api?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=swapnil-the-legend&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+# 🎖️ My Contributions:
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swapnil-the-legend&theme=react-dark&hide_border=true&area=true)
