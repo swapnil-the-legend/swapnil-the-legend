@@ -7,6 +7,8 @@
 
 # 🤝 Connect with me:
 <p> 
+<a href="https://youtube.com/@SWAPNILCRAFT18"><img src="https://img.shields.io/badge/My_Gaming_Channel-SWAPNILCRAFT-FF0000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VJudge"/></a>
+<br>
 <a href="https://codeforces.com/profile/swapnil_sylhety"><img src="https://img.shields.io/badge/Codeforces-swapnil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 <br>
 <a href="https://codechef.com/users/swapnilsylhety"><img src="https://img.shields.io/badge/CodeChef-swapnil-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
