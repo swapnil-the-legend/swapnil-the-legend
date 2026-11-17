@@ -7,13 +7,13 @@
 
 # 🤝 Connect with me:
 <p> 
-<a href="https://codeforces.com/profile/swapnil_sylhety"><img src="https://img.shields.io/badge/Codeforces-swapnil_sylhety-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
+<a href="https://codeforces.com/profile/swapnil_sylhety"><img src="https://img.shields.io/badge/Codeforces-swapnil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 <br>
-<a href="https://codechef.com/users/swapnilsylhety"><img src="https://img.shields.io/badge/CodeChef-swapnil_sylhety-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
+<a href="https://codechef.com/users/swapnilsylhety"><img src="https://img.shields.io/badge/CodeChef-swapnil-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
 <br>
-<a href="https://hackerrank.com/profile/Swapnil_Sylhety"><img src="https://img.shields.io/badge/HackerRank-swapnil_sylhety-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
+<a href="https://hackerrank.com/profile/Swapnil_Sylhety"><img src="https://img.shields.io/badge/HackerRank-swapnil-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" alt="HackerRank"/></a>
 <br>
-<a href="https://vjudge.net/user/Swapnil_Sylhety"><img src="https://img.shields.io/badge/VJudge-swapnil_sylhety-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VJudge"/></a>
+<a href="https://vjudge.net/user/Swapnil_Sylhety"><img src="https://img.shields.io/badge/VJudge-swapnil-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VJudge"/></a>
 </p>
 
 # 💻 Used Programming Tools:
