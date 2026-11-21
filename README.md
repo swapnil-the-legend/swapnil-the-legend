@@ -1,6 +1,6 @@
 <p align="center"><i>"Craftie Never Dies"</i> – SWAPNILCRAFT</p>
 <h1 align="center">Hello 👋, I'm Swapnil</h1>
-<h3 align="center">Professional Gamer | Competitive Programmer | Problem Solver | UI/UX Designer</h3>
+<h4 align="center">Professional Gamer | Competitive Programmer | Problem Solver | UI/UX Designer</h4>
 
 <p align="center">
 <img alt="ViewCount" src="https://views.whatilearened.today/views/github/swapnil-the-legend/swapnil-the-legend.svg">
