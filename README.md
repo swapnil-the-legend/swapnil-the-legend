@@ -11,8 +11,8 @@
 <a href="https://youtube.com/@SWAPNILCRAFT18"><img src="https://img.shields.io/badge/My_Gaming_Channel-SWAPNILCRAFT-FF0000?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VJudge"/></a>
 <a href="https://codeforces.com/profile/swapnil_sylhety"><img src="https://img.shields.io/badge/Codeforces-swapnil-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/></a>
 <a href="https://codechef.com/users/swapnilsylhety"><img src="https://img.shields.io/badge/CodeChef-swapnil-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef"/></a>
-<a href="https://hackerrank.com/profile/Swapnil_Sylhety"><img src="https://img.shields.io/badge/HackerRank-swapnil_lu-00EA64?style=for-the-badge&logo=hackerrank&logoColor=whitw" alt="HackerRank"/></a>
-<a href="https://vjudge.net/user/Swapnil_Sylhety"><img src="https://img.shields.io/badge/VJudge-swapnil-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VJudge"/></a>
+<a href="https://hackerrank.com/profile/Swapnil_Sylhety"><img src="https://img.shields.io/badge/HackerRank-swapnil_lu-006400?style=for-the-badge&logo=hackerrank&logoColor=whitw" alt="HackerRank"/></a>
+<a href="https://vjudge.net/user/Swapnil_Sylhety"><img src="https://img.shields.io/badge/VJudge-swapnil-9B870C?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VJudge"/></a>
 </p>
 
 # 💻 Used Programming Tools:
