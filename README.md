@@ -42,14 +42,12 @@
 
 # 📊 My Activities:
 <p align="center">
-  <img src="https://github-readme-stats.shion.dev/api?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnil-the-legend&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=swapnil-the-legend&theme=black-ice&hide_border=true" alt="GitHub Streak Stats">
 </p>
 <p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnil-the-legend&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
 </p>
