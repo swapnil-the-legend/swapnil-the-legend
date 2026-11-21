@@ -11,7 +11,7 @@
 </h4>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=swapnil-the-legend&color=0e75b6&style=flat-square&label=Profile+Views">
+  <img src="https://komarev.com/ghpvc/?username=swapnil-the-legend&color=0e75b6&style=for-the-badge&label=Profile+Views">
 </p>
 
 # 🤝 Connect with me:
