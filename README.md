@@ -24,16 +24,16 @@
 </p>
 
 # 💻 Used Programming Tools:
-<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+<a href="https://c-language.org/">
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </a>
 <a href="https://isocpp.org/">
   <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </a>
-<a href="https://www.python.org/">
+<a href="https://python.org/">
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python">
 </a>
-<a href="https://www.java.com/">
+<a href="https://java.com/">
   <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
 </a>
 <a href="https://html.spec.whatwg.org/">
