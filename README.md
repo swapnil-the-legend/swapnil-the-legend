@@ -1,6 +1,14 @@
-<p align="center"><i>"Craftie Never Dies"</i> – SWAPNILCRAFT</p>
-<h1 align="center">Hello 👋, I'm Swapnil</h1>
-<h4 align="center">Professional Gamer | Competitive Programmer | Problem Solver | UI/UX Designer</h4>
+<p align="center">
+  <i>"Craftie Never Dies"</i> – SWAPNILCRAFT
+</p>
+
+<h1 align="center">
+  Hello 👋, I'm Swapnil
+</h1>
+
+<h4 align="center">
+  Professional Gamer | Competitive Programmer | Problem Solver | UI/UX Designer
+</h4>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=swapnil-the-legend&color=0e75b6&style=flat-square&label=Profile+Views">
