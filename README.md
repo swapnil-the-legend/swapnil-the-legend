@@ -3,7 +3,7 @@
 <h4 align="center">Professional Gamer | Competitive Programmer | Problem Solver | UI/UX Designer</h4>
 
 <p align="center">
-<img alt="ViewCount" src="https://views.whatilearened.today/views/github/swapnil-the-legend/swapnil-the-legend.svg">
+  <img src="https://komarev.com/ghpvc/?username=swapnil-the-legend&color=0e75b6&style=flat-square&label=Profile+Views">
 </p>
 
 # 🤝 Connect with me:
@@ -23,7 +23,15 @@
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 # 📊 My Activities:
-![](https://github-readme-stats.shion.dev/api?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com?user=swapnil-the-legend&theme=black-ice&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-activity-graph.vercel.app/graph?username=swapnil-the-legend&theme=react-dark&hide_border=true&area=true)
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats">
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=swapnil-the-legend&theme=black-ice&hide_border=true" alt="GitHub Streak Stats">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages">
+</p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=swapnil-the-legend&theme=react-dark&hide_border=true&area=true" alt="GitHub Activity Graph">
+</p>
