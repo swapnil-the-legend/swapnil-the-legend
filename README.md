@@ -22,10 +22,8 @@
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-# 📊 My Stats:
+# 📊 My Activities:
 ![](https://github-readme-stats.shion.dev/api?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=swapnil-the-legend&theme=dark&hide_border=true)<br/>
+![](https://streak-stats.demolab.com?user=swapnil-the-legend&theme=black-ice&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=swapnil-the-legend&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-# 🎖️ My Contributions:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=swapnil-the-legend&theme=react-dark&hide_border=true&area=true)
+![](https://github-readme-activity-graph.vercel.app/graph?username=swapnil-the-legend&theme=react-dark&hide_border=true&area=true)
